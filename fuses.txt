@@ -1,0 +1,8 @@
+Bits of Time
+============
+
+fuse settings for Atmel ATtiny84A controller
+
+low =	$E2
+high = 	$DF
+ext. =	$FF
